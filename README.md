@@ -10,3 +10,5 @@ step 2：使用train.py训练，训练曲线存储在runs
 step 3：使用test.py测试，结果存储在results
 
 step 4：使用interpretability进行gradcam可解释性分析
+
+可以在我的知乎和我讨论：https://www.zhihu.com/people/ou-yang-4-72-1
